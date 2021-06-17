@@ -14,6 +14,7 @@
 - [대회 신청 링크](https://www.findatacontest2021.com/index.php)
 - [샘플 데이터 링크](https://www.findatamall.or.kr/fsec/dataProd/generalDataProd.do?cmnx=44&sCharge=charge&sFree=free&sNego=nego&searchType=00&sKeyword=2021%EA%B8%88%EC%9C%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C&sTaxonomy=200&sOrderByType=orderByDate)
 - [금융데이터 거래소](https://www.findatamall.or.kr/fsec/main/main.do?cmnx=1)
+- [공공데이터 포털](https://www.data.go.kr/)
 
 
 
